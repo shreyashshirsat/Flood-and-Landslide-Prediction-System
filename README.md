@@ -10,3 +10,5 @@ Features
 3. Employs state-of-the-art machine learning algorithms.
 4. Visualizes risk levels on interactive maps.
 5. Easy-to-use interface for both technical and non-technical users.
+
+Data Source 1: https://bhuvan.nrsc.gov.in/wiki/index.php/Free_Satellite_Data_Download
